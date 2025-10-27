@@ -5,8 +5,8 @@
   <h3>Преподаватель робототехники • Методолог образовательных программ • Автор линейко роботов ROSiK и курсов по CV</h3>
 
   <a href="https://t.me/burmistrov_robotics"><img src="https://img.shields.io/badge/Telegram-%40burmistrov__robotics-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="https://rosikbot.ru"><img src="https://img.shields.io/badge/Website-rosikbot.ru-orange?style=for-the-badge&logo=google-chrome"></a>
   <br>
+  <a href="https://rosikbot.ru"><img src="https://img.shields.io/badge/Website-rosikbot.ru-orange?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://stepik.org/users/300778543"><img src="https://img.shields.io/badge/Stepik-Courses-green?style=for-the-badge&logo=python"></a>
   <a href="https://habr.com/ru/users/Stepan_Burmistrov/articles/"><img src="https://img.shields.io/badge/Habr-Articles-lightgrey?style=for-the-badge&logo=habr"></a>
 </div>
